@@ -1,4 +1,4 @@
-# Case_Study_Microwave
+# Case_Study_1_Microwave
 ## Low level Requirements
 - Start/Stop button
 - Timer 
@@ -29,4 +29,20 @@
 - Beeper: To alert the user when the food is ready
 - Display: To display the instruction selected
 - Actuator: To convert the current into electromagnetic waves
+
+# Case_Study_2_Temprature and Light Control of an Incubator
+## Low level Requirements
+- When temprature is above/below the expected value cooler should be ON/OFF.
+- Humidity Sensor to sense the Temprature.
+## High level Requirements
+- Display the value on LCD.
+- LM35 to sense the humidity.
+## Aplications
+- Used to grow cell cultures.
+- Controlled sample storage.
+-  Breeding of insects and hatching of eggs in zoology.
+- Reproduction of micro organisms.
+## Block Diagram
+![alt text](./Images/Capture.png)
+
 
